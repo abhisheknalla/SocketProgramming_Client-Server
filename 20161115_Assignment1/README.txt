@@ -1,5 +1,3 @@
-Roll Number1 : 20161115
-Roll Number2 : 20161191
 
 Q1 written in C and Q2 in python2
 
